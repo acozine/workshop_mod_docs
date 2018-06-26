@@ -1,39 +1,29 @@
 // Module included in the following assemblies:
 //
-// <List assemblies here, each on a new line>
+// Baking and decorating a chocolate birthday cake
 
-// Base the file name and the ID on the module title. For example:
-// * file name: doing-procedure-a.adoc
-// * ID: [id='doing-procedure-a']
-// * Title: = Doing procedure A
+[id='preparing-ingredients_{context}']
 
-// The ID is used as an anchor for linking to the module. Avoid changing it after the module has been published to ensure existing links are not broken.
-[id='doing-one-procedure_{context}']
-// The `context` attribute enables module reuse. Every module's ID includes {context}, which ensures that the module has a unique ID even if it is reused multiple times in a guide.
-= Doing one procedure
-// Start the title of a procedure module with a verb, such as Creating or Create. See also _Wording of headings_ in _The IBM Style Guide_.
+= Preparing ingredients
 
-This paragraph is the procedure module introduction: a short description of the procedure.
-
-[discrete]
-== Prerequisites
-
-* A bulleted list of conditions that must be satisfied before the user starts following this assembly.
-* You can also link to other modules or assemblies the user must follow before starting this assembly.
-* Delete the section title and bullets if the assembly has no prerequisites.
+Measure and set out your ingredients so you can mix them together without stopping in between items.
 
 [discrete]
 == Procedure
 
-. Start each step with an active verb.
+. Measure all dry ingredients
 
-. Include one command or action per step.
+. Mix dry ingredients together so the leavening is evenly distributed and you can add all dry ingredients to the batter together
 
-. Use an unnumbered bullet (*) if the procedure includes only one step.
+. Measure the butter and let it come to room temperature
+
+. Melt the chocolate in the microwave
+
+. Set the eggs on the counter and let them come to room temperature
+
+. You know you're ready to start mixing when all ingredients are room temperature and they are lined up next to your mixer.
 
 [discrete]
 == Additional Resources
 
-* A bulleted list of links to other material closely related to the contents of the procedure module.
-* For more details on writing procedure modules, see the link:https://github.com/redhat-documentation/modular-docs#modular-documentation-reference-guide[Modular Documentation Reference Guide].
-* Use a consistent system for file names, IDs, and titles. For tips, see _Anchor Names and File Names_ in link:https://github.com/redhat-documentation/modular-docs#modular-documentation-reference-guide[Modular Documentation Reference Guide].
+* Alternative recipes

@@ -1,19 +1,12 @@
 // Module included in the following assemblies:
 //
-// <List assemblies here, each on a new line>
+// Baking and decorating a chocolate birthday cake
 
-// Base the file name and the ID on the module title. For example:
-// * file name: doing-procedure-a.adoc
-// * ID: [id='doing-procedure-a']
-// * Title: = Doing procedure A
+[id='preparing-your-tools_{context}']
 
-// The ID is used as an anchor for linking to the module. Avoid changing it after the module has been published to ensure existing links are not broken.
-[id='doing-one-procedure_{context}']
-// The `context` attribute enables module reuse. Every module's ID includes {context}, which ensures that the module has a unique ID even if it is reused multiple times in a guide.
-= Doing one procedure
-// Start the title of a procedure module with a verb, such as Creating or Create. See also _Wording of headings_ in _The IBM Style Guide_.
+= Preparing your tools for baking a chocolate birthday cake
 
-This paragraph is the procedure module introduction: a short description of the procedure.
+Prepare your tools before you mix your batter. The batter needs to start baking soon after it's mixed, so you want everything to be ready ahead of time. 
 
 [discrete]
 == Prerequisites
@@ -25,15 +18,12 @@ This paragraph is the procedure module introduction: a short description of the 
 [discrete]
 == Procedure
 
-. Start each step with an active verb.
+. Preheat the oven to 350 degrees F. This will take some time, so be sure to do it first.
 
-. Include one command or action per step.
-
-. Use an unnumbered bullet (*) if the procedure includes only one step.
+. Cut out a circle of baking parchment the size of the bottom of the pan. To get the size right, set the pan on your baking parchment and draw the outline of the pan on the paper in pen. Then remove the pan and cut just inside the line. The circle of paper should fit in the bottom of the pan. 
 
 [discrete]
 == Additional Resources
 
-* A bulleted list of links to other material closely related to the contents of the procedure module.
-* For more details on writing procedure modules, see the link:https://github.com/redhat-documentation/modular-docs#modular-documentation-reference-guide[Modular Documentation Reference Guide].
-* Use a consistent system for file names, IDs, and titles. For tips, see _Anchor Names and File Names_ in link:https://github.com/redhat-documentation/modular-docs#modular-documentation-reference-guide[Modular Documentation Reference Guide].
+* resource 1
+* resource 2

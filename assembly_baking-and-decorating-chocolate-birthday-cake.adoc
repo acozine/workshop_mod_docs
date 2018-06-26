@@ -9,8 +9,9 @@
 
 [id='baking-and-decorating-chocolate-birthday-cake']
 
+// title line begins with =
 = Baking and decorating a chocolate birthday cake
-:context: chocolate cake
+:context: chocolate_birthday_cake
 
 How to bake and decorate a chocolate cake with chocolate frosting to celebrate a chocolate-lover's birthday.
 
@@ -21,12 +22,13 @@ How to bake and decorate a chocolate cake with chocolate frosting to celebrate a
 * have ingredients and tools on hand
 * oven pre-heated to 350 degrees F
 
-// The following include statements pull in the module files that comprise the assembly. Include any combination of concept, procedure, or reference modules required to cover the user story. You can also include other assemblies.
+// Include statements pull in concepts, procedures, and/or reference modules; or other assemblies
 
-include::modules/TEMPLATE_CONCEPT_explaining_a_concept.adoc[leveloffset=+1]
-// [leveloffset=+1] ensures that when a module starts with a level-1 heading (= Heading), the heading will be interpreted as a level-2 heading (== Heading) in the assembly.
-
-include::modules/TEMPLATE_PROCEDURE_doing_one_procedure.adoc[leveloffset=+1]
+include::modules/proc_prepare-tools.adoc[leveloffset=+1]
+include::modules/proc_prepare-ingredients.adoc[leveloffset=+1]
+include::modules/proc_mix-and-pour.adoc[leveloffset=+1]
+include::modules/proc_bake-and-cool.adoc[leveloffset=+1]
+include::modules/proc_frost-and-decorate.adoc[leveloffset=+1]
 
 [id='additional-resources-{context}']
 == Additional resources

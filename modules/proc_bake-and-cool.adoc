@@ -2,16 +2,9 @@
 //
 // Baking and decorating a chocolate birthday cake
 
-// Base the file name and the ID on the module title. For example:
-// * file name: doing-procedure-a.adoc
-// * ID: [id='doing-procedure-a']
-// * Title: = Doing procedure A
-
-// The ID is used as an anchor for linking to the module. Avoid changing it after the module has been published to ensure existing links are not broken.
 [id='bake-and-cool_{context}']
-// The `context` attribute enables module reuse. Every module's ID includes {context}, which ensures that the module has a unique ID even if it is reused multiple times in a guide.
+
 = Baking and cooling your layers
-// Start the title of a procedure module with a verb, such as Creating or Create. See also _Wording of headings_ in _The IBM Style Guide_.
 
 Bake and cool your cake layers
 
@@ -19,19 +12,21 @@ Bake and cool your cake layers
 == Prerequisites
 
 * Make sure your oven is fully preheated to 350 degrees F.
+* Ingredients mixed and poured into pans.
 
 [discrete]
 == Procedure
 
-. Start each step with an active verb.
+. Put the pans in the preheated oven.
 
-. Include one command or action per step.
+. After 20 minutes, look at the layers - if they look more like cakes than like batter, test doneness with a toothpick
 
-. Use an unnumbered bullet (*) if the procedure includes only one step.
+. You will know a layer is done when a toothpick inserted into the center comes out clean
 
-[discrete]
-== Additional Resources
+. As soon as a layer is done, remove it from the oven and place it on a cooling rack
 
-* A bulleted list of links to other material closely related to the contents of the procedure module.
-* For more details on writing procedure modules, see the link:https://github.com/redhat-documentation/modular-docs#modular-documentation-reference-guide[Modular Documentation Reference Guide].
-* Use a consistent system for file names, IDs, and titles. For tips, see _Anchor Names and File Names_ in link:https://github.com/redhat-documentation/modular-docs#modular-documentation-reference-guide[Modular Documentation Reference Guide].
+. Repeat until all layers are cool. Turn the oven off.
+
+. When a layer has cooled about ten minutes, run a knife around the edge of the pan. Place the cooling rack on top of the pan. The layer should fall out as you remove the pan. 
+
+. Allow all layers to cool completely - you don't want the layers to be steaming when you put them together.
